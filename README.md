@@ -54,15 +54,13 @@ Then create a Node application called bamazonCustomer.js. Running this applicati
 The app should then prompt users with two messages.
 
 
-
 The first should ask them the ID of the product they would like to buy.
 The second message should ask how many units of the product they would like to buy.
-
-
+![](images/bamazonMysql.png)
 
 Once the customer has placed the order, your application should check if your store has enough of the product to meet the customer's request.
 
-
+![](images/bamazonCustomer.png)
 
 If not, the app should log a phrase like Insufficient quantity!, and then prevent the order from going through.
 
