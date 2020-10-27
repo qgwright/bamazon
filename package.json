@@ -20,6 +20,6 @@
   "dependencies": {
     "cli-table": "^0.3.1",
     "inquirer": "^6.3.1",
-    "mysql": "^2.16.0"
+    "mysql": "^2.18.1"
   }
 }
